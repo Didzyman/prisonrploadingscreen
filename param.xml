@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hidexml.xsl" type="text/xsl"?>
+<param>
+	<sid1>
+		<stid>76561198069871131</stid>
+	</sid1>
+	
+	<sid2>
+		<stid>76561198347610437</stid>
+	</sid2>
+	
+	<sid3>
+		<stid>76561198123553661</stid>
+	</sid3>
+	
+	<sid4>
+		<stid>76561198271750106</stid>
+	</sid4>
+	
+	<sid5>
+		<stid/>
+	</sid5>
+	
+	<sid6>
+		<stid/>
+	</sid6>
+	
+	<staffheader>
+		<staff>Staff Team</staff>
+	</staffheader>
+	
+	<rank1>
+		<rank>Owner</rank>
+	</rank1>
+	
+	<rank2>
+		<rank>Developer</rank>
+	</rank2>
+	
+	<rank3>
+		<rank>Developer</rank>
+	</rank3>
+	
+	<rank4>
+		<rank>Admin</rank>
+	</rank4>
+	
+	<rank5>
+		<rank>Staff</rank>
+	</rank5>
+	
+	<rank6>
+		<rank>Staff</rank>
+	</rank6>
+	
+	<cboxheader>
+		<cbox>Rules</cbox>
+	</cboxheader>
+	
+	<cbox1>
+		<cbox>Do not RDM.</cbox>
+	</cbox1>
+	
+	<cbox2>
+		<cbox>Do not break NLR.</cbox>
+	</cbox2>
+	
+	<cbox3>
+		<cbox>No FailRP</cbox>
+	</cbox3>
+	
+	<cbox4>
+		<cbox>No FearRP</cbox>
+	</cbox4>
+	
+	<cbox5>
+		<cbox>More at !rules</cbox>
+	</cbox5>
+	
+	<background>
+		<bg>636231392414672858-1392360444_o-ARREST-facebook.jpg</bg>
+	</background>
+	
+	<vid1>
+		<vid>TRKk_KcZIQ</vid>
+	</vid1>
+	
+	<vid2>
+		<vid>Z5nFb4Qzo88</vid>
+	</vid2>
+	
+	<vid3>
+		<vid>Om67AvxcJ1o</vid>
+	</vid3>
+	
+	<mname1>
+		<mname>Kanye West- Stronger (Instrumental Remake and Remix by Jozyé)</mname>
+	</mname1>
+	
+	<mname2>
+		<mname>Coldplay - A Sky Full of Stars</mname>
+	</mname2>
+	
+	<mname3>
+		<mname>The Weeknd - I Feel It Coming ft. Daft Punk</mname>
+	</mname3>
+	
+	<style>
+		<theme>black</theme>
+	</style>
+	
+	<about>
+		<txt>Kraken Gaming has been running a popular TTT server for a while and now we have expanded to PrisonRP!</txt>
+	</about>
+	
+	<website>
+		<url>https://kraken-gaming.000webhostapp.com/index.php</url>
+	</website>
+	
+	<store>
+		<url>https://kraken-gaming.000webhostapp.com/misc.php?action=payments</url>
+	</store>
+	
+	<teamspeak>
+		<url>94.23.180.163</url>
+	</teamspeak>
+	
+	<dis_music>
+		<dis>true</dis>
+	</dis_music>
+	
+	<dis_staff>
+		<dis>0</dis>
+	</dis_staff>
+	
+	<dis_cbox>
+		<dis>0</dis>
+	</dis_cbox>
+	
+	<dis_about>
+		<dis>0</dis>
+	</dis_about>
+	
+	<dis_website>
+		<dis>0</dis>
+	</dis_website>
+	
+	<dis_store>
+		<dis>0</dis>
+	</dis_store>
+	
+	<dis_teamspeak>
+		<dis>1</dis>
+	</dis_teamspeak>
+	
+	<sname>
+		<name>Kraken Gaming PrisonRP</name>
+	</sname>
+	<descr>
+		<desc>Welcome to Prison Roleplay</desc>
+	</descr>
+	<volume>
+		<vol>1</vol>
+	</volume>
+	<color>
+		<col>#DCDCDC	</col>
+	</color>
+</param>
